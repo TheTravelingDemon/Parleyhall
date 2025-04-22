@@ -25,5 +25,5 @@ While we encourage open conversation, our platform is not a free-for-all such as
 ### My experience programming
 - I’m a (very) beginner programmer with experience in HTML, CSS, and JavaScript, and Parleyhall is my long-term passion project as I learn more about programming.
 
-- ## Why Parleyhall?
+### Why Parleyhall?
 Unlike platforms with overly-restrictive moderated or overly simplifed interfaces, Parleyhall prioritizes open, respectful dialogue across all topics. We don’t endorse any viewpoints—whether political, speculative, or personal—but provide a space where they can be discussed fairly without being worried of being patronized. Parleyhall's UI will pay homage to less modern UIs of times past and give users something nice to look at as discuss where opinons thrive.
