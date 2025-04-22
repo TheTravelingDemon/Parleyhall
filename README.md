@@ -6,7 +6,7 @@ It will have different communities called "Halls". Each Hall being a different t
 ### CORE FEATURES:
 
 * Like/Dislike System: As downvotes are abused and make discussion less appealing. Most people on for example Reddit just use the downvote system as a way to disagree with the comment. By removing the dislike button instead of disliking and continue scrolling, if the user wants to disagree with the person that made the comment, you have to reply to that person. Creating more discussion and less about reactions.
-* Webs: Each reply is a new "Web." Each Web (reply) you can slide up after reading if you'd like to have more space without scrolling down.
+* Webs: Each reply is a new "Web." Each Web (reply) you can collapse or expand after reading if you'd like to have more space without scrolling down. 
 * profiles: No paid annoying figures, no NFTs, just choose your profile icon from a list of ours or your very own image.
 * No locked posts. If a post is years old, you can still reply to it. Or if a post has heated arguments, the post cannot be locked by mods or admins. This is a place for discussion, if a post has arguments then discuss it to your hearts content.
 * UI: A less shitified one. More posts on your screen and less overly modern/minimilistic like so many websites today. And loads of costimization! 
