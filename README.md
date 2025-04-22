@@ -1,4 +1,4 @@
-## Overview 
+### Overview 
 Parleyhall is a forum based website going back to the roots of the old internet based around discussion of topics you love with light moderation and less shitified UI.
 
 It will have different communities called "Halls". Each Hall being a different topic about anything the user wants. A niche game, writing, internet mysteries, memes, you can make a Hall for anything you want.
