@@ -1,4 +1,4 @@
-### Overview 
+### Overview: 
 Parleyhall is a forum based website going back to the roots of the old internet based around discussion of topics you love with light moderation and less shitified UI.
 
 It will have different communities called "Halls". Each Hall being a different topic about anything the user wants. A niche game, writing, internet mysteries, memes, you can make a Hall for anything you want.
@@ -14,7 +14,7 @@ It will have different communities called "Halls". Each Hall being a different t
 
 
 
-### Community Guidelines
+### Community Guidelines:
 While we encourage open conversation, our platform is not a free-for-all such as 4chan. Discussions must:
 - Be respectful. We expect basic courtesy. No harassment, no doxxing. No extremism. No incitement. No promoting violence, supremacy, or dehumanization of any group based on race or gender.
 
@@ -22,7 +22,7 @@ While we encourage open conversation, our platform is not a free-for-all such as
 
 
 
-### My experience programming
+### My experience programming:
 - I’m a (very) beginner programmer with experience in HTML, CSS, and JavaScript, and Parleyhall is my long-term passion project as I learn more about programming.
 
 ### Why Parleyhall?
