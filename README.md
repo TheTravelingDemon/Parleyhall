@@ -9,8 +9,8 @@ It will have different communities called "Halls". Each Hall being a different t
 * Webs: Each reply is a new "Web." Each Web (reply) you can collapse or expand after reading if you'd like to have more space without scrolling down. 
 * profiles: No paid annoying PFPs, no NFTs, just choose your profile icon from a list of ours or your very own image.
 * No locked posts. If a post is years old, you can still reply to it. Or if a post has heated arguments, the post cannot be locked by mods or admins. This is a place for discussion, if a post has arguments then discuss it to your hearts content.
-* UI: A less over-commercialized and simplefied one. More posts on your screen and less overly modern/minimilistic like so many websites today. And loads of customization! change colors, fonts, or different layouts of the website. For ones that like the modern and simplefied UI, we have a version for you! If you like the look of bare-bones UI of the early 2000s, theres one for you as well!
-* Light Moderation: Hyper-moderated spaces is sadly common on a lot of websites on the internet these days. Parleyhall has rules, but you can discuss any topic, from politics to conspiracies, without fear of heavy-handed and unwarranted bans. We welcome all viewpoints, provided they follow our guidelines for respect and constructiveness. Think X, but in Reddit's body. You want to discuss politics? Feel free to discuss right-leaning and left-leaning politics on the appropriate Halls without being banned by left-leaning/-right-leaning mods/admins. The platform is for open, civil discourse where all perspectives are welcome on everything. Fostering understanding across ideological divides.
+* UI: A less over-commercialized and simplefied one. More posts on your screen and less modern/minimilistic like so many websites today. And loads of customization! change colors, fonts, or different layouts of the website. For ones that like the modern and simplefied UI, we have a version for you. If you like the look of a bare-bones older UI of the early 2000s, theres one for you as well!
+* Light Moderation: Hyper-moderated spaces is sadly common on a lot of websites on the internet these days prohibiting great discussion. Parleyhall has rules, but you can discuss any subjects from politics, religion to other controversial topics without fear of heavy-handed and unwarranted bans. We welcome all viewpoints, provided they follow our guidelines for respect and constructiveness. Think X, but in Reddit's body. You want to discuss politics? Feel free to discuss right-leaning and left-leaning politics on the appropriate Halls without being banned by left-leaning/-right-leaning mods/admins. The platform is for open, civil discourse where all perspectives are welcome on everything. Fostering understanding across ideological divides.
 
 
 
@@ -19,8 +19,6 @@ While we encourage open conversation, our platform is not a free-for-all such as
 - Be respectful. We expect basic courtesy. No harassment, no doxxing. No extremism. No incitement. No promoting violence, supremacy, or dehumanization of any group based on race or gender.
 
 
-- Stay constructive, as this is a place for discussion even when debating sensitive issues.
-- 
 
 
 
