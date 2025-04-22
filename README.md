@@ -10,7 +10,7 @@ It will have different communities called "Halls". Each Hall being a different t
 * profiles: No paid annoying figures, no NFTs, just choose your profile icon from a list of ours or your very own image.
 * No locked posts. If a post is years old, you can still reply to it. Or if a post has heated arguments, the post cannot be locked by mods or admins. This is a place for discussion, if a post has arguments then discuss it to your hearts content.
 * UI: A less shitified one. More posts on your screen and less overly modern/minimilistic like so many websites today. And loads of costimization! 
-* No HyperModeration: Hypermodereated is sadly common on a lot of websites on the internet these days. Parleyhall has rules, but you can discuss anything you want except for illegal content, of course. Think X, but in Reddits body. You want to discuss politics? Feel free to discuss right-leaning and left-leaning politics on the appropriate Halls without being banned by left-leaning/-right-leaning mods/admins that don't know what opinions are. The platform is for open, civil discourse where all perspectives are welcome on everything. Fostering understanding across ideological divides.
+* Light Moderation: Hyper-modereated spaces is sadly common on a lot of websites on the internet these days. Parleyhall has rules, but you can discuss any topic, from politics to conspiracies, without fear of heavy-handed and unwarrented bans. We welcome all viewpoints, provided they follow our guidelines for respect and constructiveness. Think X, but in Reddit's body. You want to discuss politics? Feel free to discuss right-leaning and left-leaning politics on the appropriate Halls without being banned by left-leaning/-right-leaning mods/admins. The platform is for open, civil discourse where all perspectives are welcome on everything. Fostering understanding across ideological divides.
 
 
 
@@ -20,5 +20,9 @@ While we encourage open conversation, our platform is not a free-for-all such as
 - Stay constructive, as this is a place for discussion even when debating sensitive issues.
 
 ### My experience programming
-- This project here. I've only learned HTML, CSS, Javascript (and soon to be more!) with no other built projects as of yet. This is a long-term passion project I want to work on as I learn more about programming.  
+- I’m a (very) beginner programmer with experience in HTML, CSS, and JavaScript, and Parleyhall is my long-term passion project as I learn more about programming.
+
+- ## Why Parleyhall?
+Unlike platforms with overly-restrictive moderation or overly simplifed interfaces, Parleyhall prioritizes open, respectful dialogue across all topics. We don’t endorse any viewpoints—whether political, speculative, or personal—but provide a space where they can be discussed fairly without being worried of being patrionized. Parleyhall's UI will pay homage to less modern UI's of times past and give users something nice to look at as discuss where opinons thrive.
+
 
