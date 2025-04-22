@@ -16,8 +16,13 @@ It will have different communities called "Halls". Each Hall being a different t
 
 ### Community Guidelines
 While we encourage open conversation, our platform is not a free-for-all such as 4chan. Discussions must:
-- Be respectful. We expect basic courtesy. No harassment, no doxxing. No extremism. No incitement. 
+- Be respectful. We expect basic courtesy. No harassment, no doxxing. No extremism. No incitement. No promoting violence, supremacy, or dehumanization of any group based on race or gender.
+
+
 - Stay constructive, as this is a place for discussion even when debating sensitive issues.
+- 
+
+
 
 ### My experience programming
 - I’m a (very) beginner programmer with experience in HTML, CSS, and JavaScript, and Parleyhall is my long-term passion project as I learn more about programming.
